@@ -22,5 +22,3 @@ O Broto é um diário digital de plantas: permite cadastrar as plantas que você
 - Spring Web
 - JdbcTemplate
 - MySQL
-
-## Estrutura do repositório
