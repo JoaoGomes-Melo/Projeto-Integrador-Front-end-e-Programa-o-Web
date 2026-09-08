@@ -1,0 +1,16 @@
+.campo {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.rotulo {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    color: #63706A;
+}
+
+.erroCampo {
+    color: #A9432E;
+    font-size: 0.8rem;
+}

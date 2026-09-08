@@ -1,0 +1,27 @@
+.tela {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F3F1E7;
+}
+
+.caixa {
+    background: #FFFEFA;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.link {
+    text-align: center;
+    font-size: 0.85rem;
+    color: #63706A;
+    background: none;
+    border: none;
+    cursor: pointer;
+}

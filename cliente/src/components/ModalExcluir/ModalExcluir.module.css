@@ -1,0 +1,23 @@
+.fundo {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa {
+    background: #FFFEFA;
+    border-radius: 10px;
+    padding: 1.5rem;
+    max-width: 360px;
+    text-align: center;
+}
+
+.acoes {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1rem;
+}

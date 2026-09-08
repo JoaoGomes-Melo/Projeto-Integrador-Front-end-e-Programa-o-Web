@@ -1,0 +1,19 @@
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: #2F4A3C;
+    color: #FBF8EE;
+}
+
+.titulo {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.usuario {
+    font-size: 0.85rem;
+    opacity: 0.85;
+}

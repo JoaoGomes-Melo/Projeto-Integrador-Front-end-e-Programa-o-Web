@@ -1,19 +1,22 @@
-.botao {
+.btn {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 10px 16px; border-radius: 8px;
+    padding: 10px 16px;
+    border-radius: 8px;
     font-size: 0.9rem;
-    font-weight: 600 ;
+    font-weight: 600;
     border: 1px solid transparent;
     cursor: pointer;
 }
+
 .primario {
-    background: #2f4a3c;
-    color: #fbf8ee;
+    background: #2F4A3C;
+    color: #FBF8EE;
 }
+
 .fantasma {
     background: transparent;
-    border-color: #dcd6c4;
-    color: #23302a;
+    border-color: #DCD6C4;
+    color: #23302A;
 }

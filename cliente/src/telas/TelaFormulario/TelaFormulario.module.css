@@ -1,0 +1,21 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.erro {
+    color: #A9432E;
+    background: #F4E1DA;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.acoes {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}

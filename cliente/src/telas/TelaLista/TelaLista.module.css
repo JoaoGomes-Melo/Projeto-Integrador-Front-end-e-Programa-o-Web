@@ -1,0 +1,30 @@
+.tela {
+    padding: 2rem;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.grade {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+}
+
+.cartao {
+    background: #FFFEFA;
+    border: 1px solid #DCD6C4;
+    border-radius: 10px;
+    padding: 1.1rem;
+}
+
+.carregando,
+.erro,
+.vazio {
+    text-align: center;
+    padding: 3rem;
+    color: #63706A;
+}
+
+.erro {
+    color: #A9432E;
+}
